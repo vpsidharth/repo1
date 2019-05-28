@@ -12,7 +12,7 @@ b=sc.nextInt();
 c=addition(a,b);
 d=subtraction(a,b);
 System.out.println(" subtraction of two numbers is : "+d);
-
+//Merging with Master
 }
 static int addition(int x,int y)
 {
